@@ -36,7 +36,7 @@ Standard Notes is a dependable environment to do your most important work, inclu
 Join us on
 
 - [Discord](https://standardnotes.com/discord)
-- [Twitter](https://twitter.com/StandardNotes)
+- [X](https://x.com/StandardNotes)
 - [Forum](https://standardnotes.com/forum)
 
 Developers can create and publish their own extensions. Visit the [documentation hub](https://standardnotes.com/help/plugins/intro) to learn more.
